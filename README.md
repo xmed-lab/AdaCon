@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="" width="300">
+  <img src="https://github.com/XMed-Lab/AdaCon/raw/main/echonet/docs/framework_chart.PNG" width="300">
 </p>
 
 This is the implementation of AdaCon on the EchoNet-Dynamic Dataset for the paper "AdaCon: Adaptive Contrast for Image Regression in Computer-Aided Disease Assessment".
