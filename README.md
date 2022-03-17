@@ -1,4 +1,4 @@
-# AdaCon: Adaptive Contrast for Image Regression in Computer-Aided Disease Assessment
+# IEEE TMI 2021: AdaCon: Adaptive Contrast for Image Regression in Computer-Aided Disease Assessment
 
 <p align="center">
   <img src="https://github.com/XMed-Lab/AdaCon/raw/main/echonet/docs/framework_chart.PNG" width="300">
